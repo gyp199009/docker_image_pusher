@@ -6,6 +6,7 @@ python:3.11.0-slim
 hanxi/xiaomusic
 neosmemo/memos:stable
 zhaojun1998/zfile:latest
+https://github.com/gyp199009/docker_image_pusher/blob/main/images.txt
 #支持指定架构
 --platform=linux/arm64 idootop/mi-gpt
 --platform=linux/amd64 idootop/mi-gpt

@@ -1,14 +1,14 @@
-nginx
-python:3.11.0-slim
+#nginx
+#python:3.11.0-slim
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
-hanxi/xiaomusic
-neosmemo/memos:stable
-zhaojun1998/zfile:latest
-https://github.com/gyp199009/docker_image_pusher/blob/main/images.txt
+#hanxi/xiaomusic
+#neosmemo/memos:stable
+#zhaojun1998/zfile:latest
+ghcr.io/open-webui/open-webui:ollama
 #支持指定架构
---platform=linux/arm64 idootop/mi-gpt
---platform=linux/amd64 idootop/mi-gpt
---platform=linux/arm64 lmk123/migpt-server
---platform=linux/amd64 lmk123/migpt-server
+#--platform=linux/arm64 idootop/mi-gpt
+#--platform=linux/amd64 idootop/mi-gpt
+#--platform=linux/arm64 lmk123/migpt-server
+#--platform=linux/amd64 lmk123/migpt-server

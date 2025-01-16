@@ -8,7 +8,7 @@
 #zhaojun1998/zfile:latest
 ghcr.io/open-webui/open-webui:ollama
 ghcr.io/open-webui/open-webui:cuda
-nvidia/cuda
+nvidia/cuda:11.0-base
 #支持指定架构
 #--platform=linux/arm64 idootop/mi-gpt
 #--platform=linux/amd64 idootop/mi-gpt
